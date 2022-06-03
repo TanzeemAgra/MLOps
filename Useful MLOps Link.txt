@@ -1,0 +1,9 @@
+https://exchange.scale.com/public/blogs/7-reasons-dataset-management-tools-are-critical-to-mlops
+
+
+https://github.com/mlops-guide/dvc-gitactions
+
+https://dvc.org/blog/first-mlops-tutorial
+
+
+Video Lecture : https://dvc.org/blog/first-mlops-tutorial
