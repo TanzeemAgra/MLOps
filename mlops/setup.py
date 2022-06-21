@@ -1,10 +1,11 @@
-from setuptools import find_packages, setup
+from setuptools import setup, find_packages
 
 setup(
-    name='src',
+    name="src",
+    version="0.0.1",
+    description="its a wine Q package", 
+    author="c17hawke", 
     packages=find_packages(),
-    version='0.1.0',
-    description='this project is to demostrate mlops',
-    author='Xerxez Solutions',
-    license='MIT',
+    license="MIT"
 )
+
